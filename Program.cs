@@ -7,7 +7,9 @@ namespace RandomNumber
     {
         static void Main(string[] args)
         {
-            int a = 555555;
+            string name = "Susan";
+            int a = 55;
+            Console.WriteLine("{0} is {1}",name,a);
         }
     }
 
