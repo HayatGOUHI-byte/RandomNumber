@@ -7,7 +7,7 @@ namespace RandomNumber
     {
         static void Main(string[] args)
         {
-            int a = 55;
+            int a = 555555;
         }
     }
 
