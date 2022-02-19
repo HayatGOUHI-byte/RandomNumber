@@ -7,9 +7,7 @@ namespace RandomNumber
     {
         static void Main(string[] args)
         {
-            string name = "hayat";
-           
-            Console.WriteLine(name + " " +prenom);
+            
         }
     }
 
