@@ -7,9 +7,11 @@ namespace RandomNumber
     {
         static void Main(string[] args)
         {
-            string name = "Susan";
-            int a = 55;
-            Console.WriteLine("{0} is {1}",name,a);
+            string appName = "Number Guesser";
+            string appVersion = "1.0.2";
+            string appAuthor = "brad Traversey";
+            Console.ForegroundColor = ConsoleColor.Blue;
+            Console.WriteLine("{0} is realesed By {1} on vesrion",appName, appVersion, appAuthor);
         }
     }
 
